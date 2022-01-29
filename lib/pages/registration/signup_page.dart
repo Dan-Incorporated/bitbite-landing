@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:bitbite-landing/struc/base_state.dart';
-import 'package:bitbite-landing/struc/routes.dart';
-import 'package:bitbite-landing/widgets/app_bar.dart';
-import 'package:bitbite-landing/widgets/buttons/base.dart';
-import 'package:bitbite-landing/widgets/cards/base.dart';
-import 'package:bitbite-landing/widgets/dialogs/toasts.dart';
-import 'package:bitbite-landing/widgets/forms/validation_manager.dart';
-import 'package:bitbite-landing/widgets/forms/validators.dart';
+import 'package:bitbite_landing/struc/base_state.dart';
+import 'package:bitbite_landing/struc/routes.dart';
+import 'package:bitbite_landing/widgets/app_bar.dart';
+import 'package:bitbite_landing/widgets/buttons/base.dart';
+import 'package:bitbite_landing/widgets/cards/base.dart';
+import 'package:bitbite_landing/widgets/dialogs/toasts.dart';
+import 'package:bitbite_landing/widgets/forms/validation_manager.dart';
+import 'package:bitbite_landing/widgets/forms/validators.dart';
 import 'package:routemaster/routemaster.dart';
 
 // ================================================================================

@@ -9,9 +9,9 @@
 
 import 'dart:convert';
 
-import 'package:bitbite-landing/models/user.dart';
-import 'package:bitbite-landing/services/helpers.dart';
-import 'package:bitbite-landing/services/rest-apis/api_helpers.dart';
+import 'package:bitbite_landing/models/user.dart';
+import 'package:bitbite_landing/services/helpers.dart';
+import 'package:bitbite_landing/services/rest-apis/api_helpers.dart';
 import 'package:http/http.dart';
 
 // ===============================================================================/

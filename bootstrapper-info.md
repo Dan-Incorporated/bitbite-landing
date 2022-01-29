@@ -2,13 +2,13 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-![Build](https://github.com/Dan-Incorporated/bitbite-landing/actions/workflows/build.yml/badge.svg)
-![Test](https://github.com/Dan-Incorporated/bitbite-landing/actions/workflows/test.yml/badge.svg)
-[![codecov](https://codecov.io/gh/Dan-Incorporated/bitbite-landing/branch/master/graph/badge.svg?token=837V3AMFT6)](https://codecov.io/gh/Dan-Incorporated/bitbite-landing)
+![Build](https://github.com/Dan-Incorporated/bitbite_landing/actions/workflows/build.yml/badge.svg)
+![Test](https://github.com/Dan-Incorporated/bitbite_landing/actions/workflows/test.yml/badge.svg)
+[![codecov](https://codecov.io/gh/Dan-Incorporated/bitbite_landing/branch/master/graph/badge.svg?token=837V3AMFT6)](https://codecov.io/gh/Dan-Incorporated/bitbite_landing)
 
 #### By: [Daniel Nazarian](https://danielnazarian) 🐧👹
 ##### Contact me at <dnaz@danielnazarian.com>
-##### Created using [Daniel's Flutter Bootstrapper](https://github.com/dan1229/bitbite-landing)
+##### Created using [Daniel's Flutter Bootstrapper](https://github.com/dan1229/bitbite_landing)
 
 -------------------------------------------------------
 

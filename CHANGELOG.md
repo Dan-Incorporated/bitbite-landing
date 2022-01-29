@@ -1,7 +1,7 @@
 # CHANGELOG for BitBite Landing
 #### By: [Daniel Nazarian](https://danielnazarian) 🐧👹
 ##### Contact me at <dnaz@danielnazarian.com>
-##### Created using [Daniel's Flutter Bootstrapper](https://github.com/Dan-Incorporated/bitbite-landing)
+##### Created using [Daniel's Flutter Bootstrapper](https://github.com/Dan-Incorporated/bitbite_landing)
 
 -------------------------------------------------------
 

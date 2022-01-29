@@ -11,9 +11,9 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:bitbite-landing/struc/base_state.dart';
-import 'package:bitbite-landing/struc/routes.dart';
-import 'package:bitbite-landing/widgets/loading_indicator.dart';
+import 'package:bitbite_landing/struc/base_state.dart';
+import 'package:bitbite_landing/struc/routes.dart';
+import 'package:bitbite_landing/widgets/loading_indicator.dart';
 import 'package:routemaster/routemaster.dart';
 
 // ====================================================================================

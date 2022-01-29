@@ -8,10 +8,10 @@
  */
 
 import 'package:flutter/material.dart';
-import 'package:bitbite-landing/pages/home_page.dart';
-import 'package:bitbite-landing/pages/registration/login_page.dart';
-import 'package:bitbite-landing/pages/registration/signup_page.dart';
-import 'package:bitbite-landing/pages/splash_page.dart';
+import 'package:bitbite_landing/pages/home_page.dart';
+import 'package:bitbite_landing/pages/registration/login_page.dart';
+import 'package:bitbite_landing/pages/registration/signup_page.dart';
+import 'package:bitbite_landing/pages/splash_page.dart';
 import 'package:routemaster/routemaster.dart';
 
 String absoluteRoute(String route) {

@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:bitbite-landing/services/rest-apis/api_helpers.dart';
+import 'package:bitbite_landing/services/rest-apis/api_helpers.dart';
 import 'package:http/http.dart';
 import 'package:http/testing.dart';
 

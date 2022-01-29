@@ -7,7 +7,7 @@
  * ======================================================
  */
 
-import 'package:bitbite-landing/services/helpers.dart';
+import 'package:bitbite_landing/services/helpers.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class Preferences {

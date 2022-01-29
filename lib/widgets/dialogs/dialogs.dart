@@ -8,9 +8,9 @@
  */
 
 import 'package:flutter/material.dart';
-import 'package:bitbite-landing/keys.dart';
-import 'package:bitbite-landing/services/helpers.dart';
-import 'package:bitbite-landing/widgets/dialogs/dialog_base.dart';
+import 'package:bitbite_landing/keys.dart';
+import 'package:bitbite_landing/services/helpers.dart';
+import 'package:bitbite_landing/widgets/dialogs/dialog_base.dart';
 
 /// ==============================================================================
 /// DIALOG BASE ==================================================================

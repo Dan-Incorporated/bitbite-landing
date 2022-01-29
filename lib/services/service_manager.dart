@@ -7,8 +7,8 @@
  * ======================================================
  */
 
-import 'package:bitbite-landing/services/rest-apis/auth/auth_api.dart';
-import 'package:bitbite-landing/services/rest-apis/email/email_api.dart';
+import 'package:bitbite_landing/services/rest-apis/auth/auth_api.dart';
+import 'package:bitbite_landing/services/rest-apis/email/email_api.dart';
 import 'package:http/http.dart';
 
 /// ==================================================================================/

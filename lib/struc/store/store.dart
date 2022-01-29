@@ -8,10 +8,10 @@
  */
 
 import 'package:flutter/material.dart';
-import 'package:bitbite-landing/models/user.dart';
-import 'package:bitbite-landing/services/service_manager.dart';
-import 'package:bitbite-landing/services/shared_preferences.dart';
-import 'package:bitbite-landing/widgets/dialogs/toasts.dart';
+import 'package:bitbite_landing/models/user.dart';
+import 'package:bitbite_landing/services/service_manager.dart';
+import 'package:bitbite_landing/services/shared_preferences.dart';
+import 'package:bitbite_landing/widgets/dialogs/toasts.dart';
 import 'package:http/http.dart';
 
 /// ===============================================================================

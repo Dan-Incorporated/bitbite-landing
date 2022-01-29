@@ -1,9 +1,9 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:bitbite-landing/services/helpers.dart';
-import 'package:bitbite-landing/struc/base_state.dart';
-import 'package:bitbite-landing/widgets/texts/base.dart';
+import 'package:bitbite_landing/services/helpers.dart';
+import 'package:bitbite_landing/struc/base_state.dart';
+import 'package:bitbite_landing/widgets/texts/base.dart';
 import 'package:intl/intl.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 

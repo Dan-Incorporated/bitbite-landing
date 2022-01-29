@@ -8,8 +8,8 @@
  */
 
 import 'package:flutter/material.dart';
-import 'package:bitbite-landing/struc/base_state.dart';
-import 'package:bitbite-landing/struc/store/store.dart';
+import 'package:bitbite_landing/struc/base_state.dart';
+import 'package:bitbite_landing/struc/store/store.dart';
 
 /// ========================================================================================
 /// STORE CONTAINER ========================================================================

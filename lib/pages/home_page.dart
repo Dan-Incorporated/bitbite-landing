@@ -8,8 +8,8 @@
  */
 
 import 'package:flutter/material.dart';
-import 'package:bitbite-landing/struc/base_state.dart';
-import 'package:bitbite-landing/widgets/app_bar.dart';
+import 'package:bitbite_landing/struc/base_state.dart';
+import 'package:bitbite_landing/widgets/app_bar.dart';
 
 // ================================================================================
 // HOME PAGE ======================================================================

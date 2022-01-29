@@ -8,7 +8,7 @@
  */
 
 import 'package:flutter/material.dart';
-import 'package:bitbite-landing/widgets/buttons/base.dart';
+import 'package:bitbite_landing/widgets/buttons/base.dart';
 
 /// =========================================================================/
 /// BUTTONS =================================================================/

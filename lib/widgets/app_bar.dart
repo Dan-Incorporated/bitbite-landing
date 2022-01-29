@@ -8,9 +8,9 @@
  */
 
 import 'package:flutter/material.dart';
-import 'package:bitbite-landing/main.dart';
-import 'package:bitbite-landing/services/shared_preferences.dart';
-import 'package:bitbite-landing/struc/base_state.dart';
+import 'package:bitbite_landing/main.dart';
+import 'package:bitbite_landing/services/shared_preferences.dart';
+import 'package:bitbite_landing/struc/base_state.dart';
 
 /// =================================================================================
 /// APP BAR =========================================================================

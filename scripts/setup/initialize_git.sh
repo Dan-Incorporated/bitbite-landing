@@ -40,7 +40,7 @@ fi
 
 # shellcheck disable=SC1083
 # needed for bootstrapper
-repo_name=bitbite-landing
+repo_name=bitbite_landing
 
 # start git repo
 echo "Initialize local repo..."
