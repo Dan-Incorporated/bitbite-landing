@@ -20,7 +20,7 @@ void main() {
       await tester.pumpWidget(const MaterialApp(home: Scaffold(body: AppBarBase())));
 
       // search for elements
-      expect(find.text("BitBite Landing"), findsOneWidget);
+      expect(find.text("BitBite"), findsOneWidget);
     });
 
     testWidgets('AppBarBase works with short title', (WidgetTester tester) async {
