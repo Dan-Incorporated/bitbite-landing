@@ -35,7 +35,7 @@ class _HomePageState extends BaseState<HomePage> {
       body: Align(
         child: SizedBox(
           width: 800.0,
-          child: Column(
+          child: ListView(
             children: <Widget>[
               CardBase(
                   child: Padding(

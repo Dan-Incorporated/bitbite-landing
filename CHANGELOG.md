@@ -14,6 +14,10 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Released]
 
+### [1.0.2] - 2022-01-30
+- Changed to ListView
+
+
 ### [1.0.1] - 2022-01-30
 - "better" home screen
 - Updated icons/favicons
@@ -34,7 +38,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---------------------------
 
-### [1.0.2] - 2022-MM-DD
+### [1.0.3] - 2022-MM-DD
 -
 
 -------------------------------------------------------
