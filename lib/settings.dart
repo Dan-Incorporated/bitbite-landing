@@ -29,7 +29,7 @@ final Color colorGrey = Colors.grey[500]!;
 final Color colorSecondary = Colors.orangeAccent[400]!;
 
 // FONT
-const String fontFamilyDefault = 'Pacifico';
+// const String fontFamilyDefault = 'Pacifico';
 
 // light theme
 ThemeData themeLight = ThemeData(
@@ -39,7 +39,7 @@ ThemeData themeLight = ThemeData(
   primaryColorDark: Colors.cyan[900],
   splashColor: Colors.cyan[100],
   visualDensity: VisualDensity.adaptivePlatformDensity,
-  fontFamily: fontFamilyDefault,
+  // fontFamily: fontFamilyDefault,
 );
 
 ThemeData themeDark = ThemeData(
@@ -48,7 +48,7 @@ ThemeData themeDark = ThemeData(
   primaryColorLight: themeLight.primaryColorLight,
   primaryColorDark: themeLight.primaryColorDark,
   splashColor: themeLight.splashColor,
-  fontFamily: fontFamilyDefault,
+  // fontFamily: fontFamilyDefault,
 );
 
 /// ================================= //

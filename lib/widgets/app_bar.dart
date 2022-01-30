@@ -25,7 +25,7 @@ class AppBarBase extends StatefulWidget with PreferredSizeWidget {
 
   const AppBarBase({
     Key? key,
-    this.title = "BitBite Landing",
+    this.title = "BitBite",
     this.colorTitle = Colors.white,
     this.actions,
     this.leading,

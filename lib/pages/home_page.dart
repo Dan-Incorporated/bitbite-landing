@@ -7,6 +7,7 @@
  * ======================================================
  */
 
+import 'package:bitbite_landing/widgets/cards/base.dart';
 import 'package:flutter/material.dart';
 import 'package:bitbite_landing/struc/base_state.dart';
 import 'package:bitbite_landing/widgets/app_bar.dart';
@@ -31,16 +32,46 @@ class _HomePageState extends BaseState<HomePage> {
   Widget buildBase(BuildContext context) {
     return Scaffold(
       appBar: AppBarBase(leading: Container()),
-      body: Center(
-        child: Column(
-          children: <Widget>[
-            Text(
-              'Welcome to BitBite Landing!',
-              style: Theme.of(context).textTheme.headline5,
-            ),
-            const Divider(),
-            Text('Follow the output of your initialize script or your setup file to get started!', style: Theme.of(context).textTheme.headline6)
-          ],
+      body: Align(
+        child: SizedBox(
+          width: 800.0,
+          child: Column(
+            children: <Widget>[
+              CardBase(
+                  child: Padding(
+                    padding: const EdgeInsets.all(8.0),
+                    child: Column(
+                children: <Widget>[
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: <Widget> [
+                        Text(
+                          'Thank You!',
+                          style: Theme.of(context).textTheme.headline2!.copyWith(
+                            fontFamily: "Pacifico",
+                          ),
+                        ),
+                        
+                        Image.asset("images/donut-blue.png", height: 60.0,)
+                      ],
+                    ),
+                    const Divider(),
+                    Text(
+                        'After nearly 4 incredible years helping small restaurants, bars and more focus on their dreams, we have decided to close our doors.\n',
+                        style: Theme.of(context).textTheme.headline5),
+                    Text(
+                        'This was not an easy decision, but the world has changed a lot in 4 years and we want to make our contribution to the food and drink space is one that helps small businesses to prosper.',
+                        style: Theme.of(context).textTheme.headline5),
+                    const Divider(),
+                    Text(
+                        "Thank you to everyone who went along for the ride and a particularly huge 'thank you' to all the small business owners who took a chance on our small business.\n",
+                        style: Theme.of(context).textTheme.headline5),
+                    Text("Thank you all again and stay tuned for our next adventure!", textAlign: TextAlign.center, style: Theme.of(context).textTheme.headline4)
+                ],
+              ),
+                  )),
+            ],
+          ),
         ),
       ),
     );
