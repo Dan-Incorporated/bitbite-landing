@@ -52,7 +52,7 @@ class _HomePageState extends BaseState<HomePage> {
                           ),
                         ),
                         
-                        Image.asset("images/donut-blue.png", height: 60.0,)
+                        Image.asset("assets/images/donut-blue.png", height: 60.0,)
                       ],
                     ),
                     const Divider(),
