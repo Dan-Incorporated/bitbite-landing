@@ -37122,7 +37122,7 @@ $3(a,b,c){var s=this.a,r=s.a.c,q=$.aez(),p=q.D,o=$.aqX()
 p=q.K2(p.K8(o))
 o=$.ar2().K2($.aez().D.K8(o))
 q=!b?B.KH:B.uO
-return new A.mz(B.wn,r,new A.a9R(s),"BitBite Landing",p,o,q,!1,!1,null)},
+return new A.mz(B.wn,r,new A.a9R(s),"BitBite",p,o,q,!1,!1,null)},
 $S:337}
 A.a9R.prototype={
 $2(a,b){this.a.a.d.Oz(a)

@@ -1,6 +1,6 @@
 {
-    "name": "BitBite Landing",
-    "short_name": "bitbite_landing",
+    "name": "BitBite",
+    "short_name": "bitbite",
     "start_url": "./",
     "scope": ".",
     "display": "standalone",
