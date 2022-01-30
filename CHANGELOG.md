@@ -14,6 +14,11 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Released]
 
+
+### [1.0.0] - 2022-01-30
+- Initial release!
+
+
 -------------------------------------------------------
 
 ## [Unreleased]
@@ -24,11 +29,12 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---------------------------
 
-### [1.0.0] - YYYY-MM-DD
+update icons
 
-#### Added
+update home page text
 
-#### Changed
+### [1.0.1] - YYYY-MM-DD
+- Initial release!
 
 -------------------------------------------------------
 ##### [https://danielnazarian.com](https://danielnazarian.com)
