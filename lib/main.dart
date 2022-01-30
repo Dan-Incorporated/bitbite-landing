@@ -91,7 +91,7 @@ class _MyAppState extends BaseState<MyApp> {
         valueListenable: darkNotifier,
         builder: (BuildContext context, bool isDark, Widget? child) {
           return MaterialApp.router(
-              title: "BitBite Landing",
+              title: "BitBite",
               routerDelegate: widget.routemaster,
               routeInformationParser: const RoutemasterParser(),
               debugShowCheckedModeBanner: false,
