@@ -13,11 +13,9 @@ import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:bitbite_landing/services/helpers.dart';
-import 'package:bitbite_landing/settings.dart';
 import 'package:bitbite_landing/struc/store/store.dart';
 import 'package:bitbite_landing/struc/store/store_container.dart';
 import 'package:bitbite_landing/widgets/loading_indicator.dart';
-import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 // ================================================================================/
 // BASE STATE =====================================================================/

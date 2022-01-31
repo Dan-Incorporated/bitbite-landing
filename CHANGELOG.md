@@ -14,6 +14,10 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Released]
 
+### [1.0.3] - 2022-01-31
+- Added contact section
+
+
 ### [1.0.2] - 2022-01-30
 - Changed to ListView
 - Fixed image rendering in prod
@@ -37,10 +41,6 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ### TODO
 
 
----------------------------
-
-### [1.0.3] - 2022-MM-DD
--
 
 -------------------------------------------------------
 ##### [https://danielnazarian.com](https://danielnazarian.com)
