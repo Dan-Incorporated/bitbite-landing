@@ -63,7 +63,7 @@ class _HomePageState extends BaseState<HomePage> {
                         'After nearly 4 incredible years helping small restaurants, bars and more focus on their dreams, we have decided to close our doors.\n',
                         style: Theme.of(context).textTheme.headline5),
                     Text(
-                        'This was not an easy decision, but the world has changed a lot in 4 years and we want to make our contribution to the food and drink space is one that helps small businesses to prosper.',
+                        'This was not an easy decision, but the world has changed a lot in 4 years and we want to make sure our contribution to the food and drink space is one that helps small businesses to prosper.',
                         style: Theme.of(context).textTheme.headline5),
                     const Divider(),
                     Text(

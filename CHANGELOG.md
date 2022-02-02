@@ -14,6 +14,10 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Released]
 
+### [1.0.4] - 2022-02-2
+- Typo
+
+
 ### [1.0.3] - 2022-01-31
 - Added contact section
 
