@@ -16,7 +16,7 @@
 
 ### Description
 
-TODO - fill out description
+Landing page for BitBite.app parked domain.
 
 #### Specs
 
